@@ -1,22 +1,11 @@
 # 20 React: React Portfolio
 
-## Your Task
+## Description
 
-Being a web developer means being part of a community. You’ll need a place not only to share your projects while you're applying for jobs or working as a freelancer but also to share your work with other developers and collaborate on projects.
+Built a resume website using React.
 
-Your task is to create a portfolio using your new React skills, which will help set you apart from other developers whose portfolios don’t use the latest technologies. 
+Single-page application with no reloading, links to past projects, downloadable pdf resume.
 
-You’ll deploy this application to GitHub Pages. Follow the instructions in the Git Guide or consult the [Create React App Docs on GitHub Pages](https://create-react-app.dev/docs/deployment/#github-pages) to create a build that you can deploy.
-
-**Important**: Be sure to push your codebase to the default branch in GitHub -- NOT your built and deployed code. Ensure this happens by using the `gh-pages` branch to host the deployed application's build.
-
-## User Story
-
-```md
-AS AN employer looking for candidates with experience building single-page applications
-I WANT to view a potential employee's deployed React portfolio of work samples
-SO THAT I can assess whether they're a good candidate for an open position
-```
 
 ## Acceptance Criteria
 
@@ -50,12 +39,16 @@ THEN I am presented with text or icon links to the developer’s GitHub and Link
 
 ## Screenshot
 
-The following animation shows the web application's appearance and functionality:
 
-![User clicks through About Me, Portfolio, Resume, and Contact sections on the webpage and enters information on Contact page.](./Assets/20-react-homework-demo-01.gif)
+
+![Screenshot of App](./src/assets/screenshot.png)
 
 ## Getting Started
 
+npm i to download dependancies
 
+npm start to launch local version of site
 
 ## Link
+
+[GitHub Live App](https://klitun.github.io/Klitun_Resume/)
