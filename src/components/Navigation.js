@@ -25,7 +25,7 @@ function Navigation({ currentPage, handlePageChange }) {
           Portfolio
         </a>
       </li>
-      <li className="nav-item">
+      {/* <li className="nav-item">
         <a
           href="#contact"
 
@@ -44,7 +44,7 @@ function Navigation({ currentPage, handlePageChange }) {
         >
           Resume
         </a>
-      </li>
+      </li> */}
     </ul>
   );
 }
