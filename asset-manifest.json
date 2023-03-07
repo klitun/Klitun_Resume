@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/Klitun_Resume/static/css/main.6b06eacb.css",
+    "main.js": "/Klitun_Resume/static/js/main.a2636917.js",
+    "static/media/resumeold.pdf": "/Klitun_Resume/static/media/resumeold.0ae3454cfec16ad84d53.pdf",
+    "static/media/phototermppng.png": "/Klitun_Resume/static/media/phototermppng.ad5be60e573d0320f678.png",
+    "static/media/header.jpg": "/Klitun_Resume/static/media/header.da8ad46d74166efd2694.jpg",
+    "index.html": "/Klitun_Resume/index.html",
+    "main.6b06eacb.css.map": "/Klitun_Resume/static/css/main.6b06eacb.css.map",
+    "main.a2636917.js.map": "/Klitun_Resume/static/js/main.a2636917.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6b06eacb.css",
+    "static/js/main.a2636917.js"
+  ]
+}
